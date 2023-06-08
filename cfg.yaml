@@ -1,0 +1,5 @@
+host: localhost
+port: 19530
+db_name: faceid
+collection_name: 'faceid_collection'
+dimensions: 512
